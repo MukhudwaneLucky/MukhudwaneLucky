@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MukhudwaneLucky
 - 👀 I’m interested in Web dev, Back-end stuff, Databases, Data science, Machine learning, AI, information security
-- 🌱 I’m currently learning python and linux 
+- 🌱 I’m currently learning c#  
 - 📫 How to reach me : mukhudwane17@gmail.com
 
 <!---
